@@ -1,2 +1,2 @@
 # monica-gonzalez-padilla.github.io
-My website example fro Segment
+My website example for Segment
